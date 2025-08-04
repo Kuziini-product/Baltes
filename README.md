@@ -1,1 +1,1 @@
-https://3dviewer.net/#model=https://github.com/Kuziini-product/Baltes/blob/main/2.mtl
+https://3dviewer.net/#model=https://raw.githubusercontent.com/Kuziini-product/Baltes/main/2.obj,https://raw.githubusercontent.com/Kuziini-product/Baltes/main/2.mtl
