@@ -1,0 +1,130 @@
+newmtl U780_ST9
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/PAL_Egger/U780_ST9.jpg
+
+newmtl ametal
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Metal/ametal.bmp
+
+newmtl cmetal
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Metal/cmetal.bmp
+
+newmtl U999_ST20
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/PAL_Egger/U999_ST20.jpg
+
+newmtl RAL 1019
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/RAL_2_fete/RAL 1019.jpg
+
+newmtl PFL_Alb
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/PLF/PFL_Alb.jpg
+
+newmtl RX22_Yellow_04
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Reflex/RX22_Yellow_04.jpg
+
+newmtl RX05_Gold_01
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Reflex/RX05_Gold_01.jpg
+
+newmtl glass
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Metal/glass.bmp
+
+newmtl RX01_Silver_01
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Reflex/RX01_Silver_01.jpg
+
+newmtl W980_SM
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/PAL_Egger/W980_SM.jpg
+
+newmtl RAL 9011
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/RAL_2_fete/RAL 9011.jpg
+
+newmtl AL05
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd X:/ElmTex/Krono_Showroom/AL05.jpg
+
