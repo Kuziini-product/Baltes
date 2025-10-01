@@ -1,0 +1,140 @@
+newmtl PAL 0114 PE
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Back/PAL 0114 PE.jpg
+
+newmtl U708 ST9 Light Grey
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/U708 ST9 Light Grey.jpg
+
+newmtl W1000 ST9 Premium White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/W1000 ST9 Premium White.jpg
+
+newmtl U748 ST9 Truffle Brown
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/U748 ST9 Truffle Brown.jpg
+
+newmtl saten
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/staklo2/saten.bmp
+
+newmtl RX12_White_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX12_White_02.jpg
+
+newmtl L1.1_H
+Ns 2
+Ka 0.91765 0.9765 1
+Kd 0.85098 0.9255 1
+Ks 0 0 0
+Ni 1.000
+d 0.52941
+illum 4
+map_Kd C:/Corpus_cloud/ElmTex/staklo2/L1.1_H.tga
+
+newmtl RAL 1020 Olive Yellow
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/RAL Colour/RAL 1020 Olive Yellow.jpg
+
+newmtl Staklo_00
+Ns 2
+Ka 0.75294 0.7529 0.7529
+Kd 1 0.502 0
+Ks 0 0 0
+Ni 1.000
+d 0.21569
+illum 4
+map_Kd C:/Corpus_cloud/ElmTex/Glass/Staklo_00.bmp
+
+newmtl W960 ST7 Classic White
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/W960 ST7 Classic White.jpg
+
+newmtl RX04_Chrome_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX04_Chrome_02.jpg
+
+newmtl RX24_Orange_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX24_Orange_02.jpg
+
+newmtl U780 ST9 Monument Grey
+Ns 40
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/? DECORURI/U780 ST9 Monument Grey.jpg
+
+newmtl RX16_Dark_02
+Ns 100
+Ka 0.5 0.5 0.5
+Kd 0.8 0.8 0.8
+Ks 1 1 1
+Ni 1.000
+d 1.000
+illum 1
+map_Kd C:/Corpus_cloud/ElmTex/Reflex/RX16_Dark_02.jpg
+
